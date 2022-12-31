@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ryan Aprianto
+- 👀 I’m interested in Fullstack Developer
+- 🌱 I’m currently learning Kotlin
