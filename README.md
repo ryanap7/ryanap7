@@ -1,5 +1,12 @@
 <!-- Banner -->
-<img src="./Banner.png" width="100%" alt="Welcome Banner" />
+<p align="center">
+  <img src="./Banner.png" width="100%" alt="Welcome Banner" />
+</p>
+
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
+</p>
 
 # Hey there, I’m Ryan Aprianto 👋
 
@@ -42,6 +49,20 @@ I speak multiple languages — both human 👨‍💬 and machine 🖥.
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanap7&theme=tokyonight" alt="GitHub Streak" height="165">
 <img src="https://github-readme-stats.vercel.app/api?username=ryanap7&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+</p>
+
+---
+
+## 📈 Visitor Counter  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryanap7&style=for-the-badge&color=brightgreen" alt="Profile views counter" />
+</p>
+
+---
+
+## ✨ Random Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
