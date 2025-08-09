@@ -19,7 +19,7 @@ From concept to deployment, I turn ideas into impactful, scalable digital produc
 
 ---
 
-## 🛠 Tech Arsenal  
+## 🛠 Tech Stack  
 I speak multiple languages — both human 👨‍💬 and machine 🖥.  
 
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
