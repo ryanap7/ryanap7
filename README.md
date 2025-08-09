@@ -6,6 +6,11 @@
        style="position:absolute; top:10px; right:10px;" />
 </p>
 
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3BA1FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ryan+Aprianto;Senior+React+Native+Developer;Fullstack+Developer;Performance+Optimization+Enthusiast;Turning+Ideas+Into+Scalable+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hey there, I’m Ryan Aprianto 👋</h1>
 
 <p align="center">
