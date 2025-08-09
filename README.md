@@ -1,42 +1,58 @@
-# 👋 Hi, I’m Ryan Aprianto  
+<!-- Banner -->
+<img src="https://i.imgur.com/zL2A3g2.gif" width="100%" alt="Welcome Banner" />
 
-🚀 **Senior React Native Developer | Fullstack Developer | Freelancer**  
-💡 Passionate about building high-performance mobile & web applications with clean architecture and scalable design.  
+# Hey there, I’m Ryan Aprianto 👋
 
----
-
-## 🧑‍💻 About Me  
-- 💼 6+ years as a **Freelance Developer** and 4+ years in **React Native**  
-- 🔧 Experienced with **Laravel, NestJS, ExpressJS, ReactJS, Next.js, Kotlin**  
-- 📱 Specialized in **cross-platform mobile app development**  
-- 🏢 Have worked with companies like **PT Cakrawala Bima Instrument**, **PT Persis Solo Saestu**, **PT Kode Inovasi Teknologi**, and more  
-- 🎯 Focused on **performance optimization**, **scalable architecture**, and **team mentoring**  
-- 🌏 Open to remote work and global collaborations  
+💻 **Senior React Native Developer | Fullstack Developer | Freelancer**  
+I craft **high-performance mobile & web applications** with clean architecture and attention to detail.  
+From concept to deployment, I turn ideas into impactful, scalable digital products. 🚀  
 
 ---
 
-## 🛠️ Tech Stack  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## ⚡ About Me  
+- 🛠 **6+ years** as a Freelance Developer, **4+ years** in React Native  
+- 💡 Expert in **Mobile Apps, Web Apps, and Backend Systems**  
+- 🔥 Strong focus on **Performance Optimization & Clean Code**  
+- 🏢 Experience with **startups, enterprises, and government projects**  
+- 🧑‍🏫 Love mentoring and sharing knowledge with teams  
+- 🌍 Open for **remote work & global collaborations**  
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanap7)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryanap7)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanaprianto7@gmail.com)  
+## 🛠 Tech Arsenal  
+I speak multiple languages — both human 👨‍💬 and machine 🖥.  
+
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-⭐️ _"Clean code, great UX, and performance optimization are not just goals — they’re my standard."_  
+## 📊 My GitHub Stats  
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanap7&theme=tokyonight" alt="GitHub Streak" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=ryanap7&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+<p align="center">
+<a href="https://linkedin.com/in/ryanap7"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:ryanaprianto7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/ryanap7"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐ _"Clean code, smooth UX, and optimal performance — not just goals, but my standard."_  
