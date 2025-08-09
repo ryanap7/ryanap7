@@ -55,10 +55,6 @@ From concept to deployment, I turn ideas into impactful, scalable digital produc
   <img src="https://github-readme-stats.vercel.app/api?username=ryanap7&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanap7&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 ---
 
 ## 📈 Visitor Counter  
