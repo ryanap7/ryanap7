@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.imgur.com/zL2A3g2.gif" width="100%" alt="Welcome Banner" />
+<img src="./Banner.png" width="100%" alt="Welcome Banner" />
 
 # Hey there, I’m Ryan Aprianto 👋
 
