@@ -1,11 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Banner.png" width="100%" alt="Welcome Banner" />
-</p>
-
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
+  <img src="./Banner.png" width="100%" height="700" alt="Welcome Banner" />
 </p>
 
 # Hey there, I’m Ryan Aprianto 👋
