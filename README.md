@@ -12,10 +12,8 @@
 </p>
 
 <p align="center">
-💻 <strong>Senior React Native & Fullstack Developer</strong>  
-I build <strong>high-performance mobile & web applications</strong> with clean architecture, scalability in mind, and an obsession for smooth user experiences.  
-From concept to production, I help transform ideas into impactful digital products. 🚀
-</p>
+💻 Senior React Native Developer | Mobile Development Enthusiast
+Specializing in building fast, scalable, and delightful mobile apps with React Native. I turn concepts into production-ready products, ensuring top-tier performance and seamless user experiences. 🚀
 
 ---
 
