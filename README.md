@@ -1,6 +1,9 @@
-<!-- Banner -->
-<p align="center">
+<!-- Banner + Visitor Counter -->
+<p align="center" style="position: relative;">
   <img src="./Banner.png" width="100%" alt="Welcome Banner" />
+  <img src="https://komarev.com/ghpvc/?username=ryanap7&style=flat&color=brightgreen" 
+       alt="Profile views counter" 
+       style="position:absolute; top:10px; right:10px;" />
 </p>
 
 <h1 align="center">Hey there, I’m Ryan Aprianto 👋</h1>
@@ -57,13 +60,6 @@ From concept to deployment, I turn ideas into impactful, scalable digital produc
 
 ---
 
-## 📈 Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanap7&style=for-the-badge&color=brightgreen" alt="Profile views counter" />
-</p>
-
----
-
 ## ✨ Random Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -80,4 +76,4 @@ From concept to deployment, I turn ideas into impactful, scalable digital produc
 
 ---
 
-⭐ _"Clean code, smooth UX, and optimal performance — not just goals, but my standard."_  
+⭐ _"Clean code, smooth UX, and optimal performance — not just goals, but my standard."_
