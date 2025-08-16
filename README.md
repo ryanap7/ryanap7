@@ -14,7 +14,7 @@
 <p align="center">
   💻 <strong>Senior React Native Developer | Mobile Development Enthusiast</strong><br/>
   Specializing in building fast, scalable, and delightful mobile apps with React Native.<br/>
-  I turn concepts into production-ready products, ensuring top-tier performance and seamless user experiences. 🚀
+  I turn concepts into production-ready products, ensuring top-tier performance and seamless user experiences.
 </p>
 
 ---
