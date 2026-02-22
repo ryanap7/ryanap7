@@ -83,15 +83,15 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
 
 ---
 
-## 🐍 Contribution Snake
+## 🗓️ 3D Contribution Calendar
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanap7/ryanap7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanap7/ryanap7/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/ryanap7/ryanap7/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <a href="https://github.com/ryanap7">
+    <img src="https://github.com/ryanap7/ryanap7/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+  </a>
 </p>
+
+> 💡 **Aktifkan 3D Calendar** — ikuti 3 langkah di bawah (tanpa billing, cukup GitHub Token gratis)
 
 ---
 
