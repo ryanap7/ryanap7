@@ -35,7 +35,7 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
 
 | | |
 |---|---|
-| 🛠 | **6+ years** Freelance · **4+ years** React Native |
+| 🛠 | **7+ years** Freelance · **5+ years** React Native |
 | 💡 | Mobile · Web · Backend Systems |
 | 🔥 | Performance Optimization & Clean Code |
 | 🏢 | Startups · Enterprises · Government |
