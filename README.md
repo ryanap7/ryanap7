@@ -83,18 +83,6 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
 
 ---
 
-## 🗓️ 3D Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/ryanap7">
-    <img src="https://github.com/ryanap7/ryanap7/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
-  </a>
-</p>
-
-> 💡 **Aktifkan 3D Calendar** — ikuti 3 langkah di bawah (tanpa billing, cukup GitHub Token gratis)
-
----
-
 ## ✨ Dev Quote
 
 <p align="center">
