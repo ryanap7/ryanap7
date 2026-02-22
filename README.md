@@ -2,7 +2,7 @@
      RYAN APRIANTO — GitHub Profile README
      ══════════════════════════════════════════════════════════ -->
 
-<!-- HEADER BANNER (pakai capsule-render, paling stabil) -->
+<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0080ff,100:00d4ff&height=200&section=header&text=Ryan%20Aprianto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20React%20Native%20Developer&descAlignY=58&descSize=18&descColor=a0d4ff&animation=fadeIn" width="100%"/>
 </p>
@@ -28,14 +28,14 @@
 
 ### 🧑‍💻 About Me
 
-💻 **Senior React Native Developer** specializing in building fast, scalable,  
+💻 **Senior React Native Developer** specializing in building fast, scalable,
 and delightful mobile apps. I turn concepts into **production-ready products**.
 
 <br/>
 
 | | |
 |---|---|
-| 🛠 | **7+ years** Freelance · **5+ years** React Native |
+| 🛠 | **6+ years** Freelance · **4+ years** React Native |
 | 💡 | Mobile · Web · Backend Systems |
 | 🔥 | Performance Optimization & Clean Code |
 | 🏢 | Startups · Enterprises · Government |
@@ -64,9 +64,9 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
@@ -74,12 +74,10 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Activity Graph — terbukti stabil -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryanap7&bg_color=0d1117&color=00d4ff&line=0080ff&point=00d4ff&area_color=0d1117&area=true&hide_border=true&custom_title=Ryan's%20Contribution%20Graph&theme=react-dark"/>
 </p>
 
 <p align="center">
-  <!-- Streak — terbukti muncul di screenshot sebelumnya -->
   <img src="https://streak-stats.demolab.com/?user=ryanap7&theme=dark&hide_border=true&background=0d1117&stroke=0080ff&ring=00d4ff&fire=0080ff&currStreakLabel=00d4ff&sideLabels=888&dates=555&currStreakNum=ffffff&sideNums=ffffff"/>
 </p>
 
@@ -94,8 +92,6 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
     <img alt="snake" src="https://raw.githubusercontent.com/ryanap7/ryanap7/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
-
-> **Aktifkan Snake:** Tambahkan file `.github/workflows/snake.yml` (file terpisah sudah disertakan)
 
 ---
 
@@ -122,8 +118,6 @@ and delightful mobile apps. I turn concepts into **production-ready products**.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
 
 <!-- FOOTER WAVE -->
 <p align="center">
